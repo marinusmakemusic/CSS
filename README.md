@@ -2,8 +2,8 @@
 <html>
 <head>
 <style>
-h1 {
-  border-style:solid;
+p {
+  border:solid;
   boder-width: 5px;
 </style>
 </head>
